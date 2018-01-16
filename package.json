@@ -1,6 +1,6 @@
 {
   "name": "shady-sequelize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sequelize plugin to shady-engine",
   "main": "index.js",
   "plugin": {
